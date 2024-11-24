@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "R+Wu8qyxuwB3cMuNxU6PxwaBzehw/uhOEssEJ+bPY9w=",
+  "Source": "Multi_Tenancy_Task",
+  "BasePath": "_content/Multi_Tenancy_Task",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
